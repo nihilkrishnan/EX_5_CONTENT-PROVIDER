@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 
 
 ## Program to print the contact name and phone number using content providers.
-## Developed by: KISHORE M
-## Registeration Number : 212221043003
+## Developed by: Nihil KK
+## Registeration Number : 212221223003
 
 
 ## Mainactivity.java:
